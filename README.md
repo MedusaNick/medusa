@@ -9,7 +9,7 @@
 
 <h4 align="center">
   <a href="https://github.com/medusajs/admin">Medusa Admin</a> |
-  <a href="https://www.medusajs.com">Website</a> |
+  <a href="https://www..com">Website</a> |
   <a href="https://www.medusajs.com/blog">Blog</a> |
   <a href="https://www.linkedin.com/company/medusa-commerce">LinkedIn</a> |
   <a href="https://twitter.com/medusajs">Twitter</a> |
